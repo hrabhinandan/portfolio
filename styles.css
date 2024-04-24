@@ -174,8 +174,8 @@
   /* Welcome section */
   .welcome-section 
   .round-image { 
-    height: 150px; 
-    width: 201px; 
+    height: 170px; 
+    width: 220px; 
     align-items: center; 
     display: flex; 
     border-radius: 50%;
